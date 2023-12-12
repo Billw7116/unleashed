@@ -1,19 +1,21 @@
+# Unleashed
 
-# Circle Theme
+## Technologies Used
+
+![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![netlify](	https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+> live link can be found [here](https://unleashed-dog-blog.netlify.app/)
 
 ## A Powerful theme for powerful Thinkers for free 💸.
 ### React + Tailwind = ❤️
 
-![Screenshot 2021-10-20 at 3 26 18 PM](https://user-images.githubusercontent.com/16558205/138075716-81961cf1-fad6-4012-9e24-2e7ee24ee227.png)
+![Screenshot 2021-10-20 at 3 26 18 PM](https://res.cloudinary.com/codelikeagirl29/image/upload/v1702397613/unleashed-dog-blog-netlify-app_lrgovs.png)
 
-
-To view a live example, **[click here](https://circletheme.netlify.app/)**.
-
-Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/chetanverma16/circle-theme/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/chetanverma16/circle-theme/pulls).
+---
 
 ## Features
 - Responsive
@@ -37,10 +39,10 @@ From your command line, clone and run react-portfolio-template:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/chetanverma16/circle-theme.git
+$ git clone https://github.com/codelikeagirl29/unleashed.git
 
 # Go into the repository
-$ cd circle-theme
+$ cd unleashed
 
 # Install dependencies
 $ yarn
@@ -57,22 +59,11 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/circle-theme)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/codelikeagirl29/unleashed)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
 
-## Technologies Used
-
-- [React](https://reactjs.org/)
-- [Gatsby](https://www.gatsbyjs.com/)
-
-
-
-## For the Future
-If you have awesome ideas on your mind,
-please don't hesitate to open a [pull request](https://github.com/chetanverma16/circle-theme/pulls).
-
 ## Thanks
-If you like this portfolio template don't forget give it a ⭐ and also share it with me [here](mailto:hello@chetanverma.com).
+If you like this portfolio template don't forget give it a ⭐ and also share it with me [here](mailto:lindseykdev@gmail.com).
 
