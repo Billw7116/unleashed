@@ -1,6 +1,6 @@
 # Unleashed
 
-## Technologies Used
+## Technologies & Tools
 
 ![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
