@@ -1,7 +1,7 @@
 import React from "react"
 import Input from "../Atoms/input"
 import Button from "../Atoms/button"
-import Fade from "react-reveal/Fade"
+import { Fade } from "react-awesome-reveal"
 
 const BlogsContainer = () => {
   const blogData = [
