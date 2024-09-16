@@ -10,7 +10,7 @@ const PricingMain = () => {
           <div className="flex w-9/12 bg-white h-auto rounded-xl">
             <div className="p-8 w-3/5">
               <h1 className="text-3xl font-bold">
-                Unlimited access to all<br></br>products.
+                Unlimited access to all<br></br>features.
               </h1>
               <p className="mt-5 text-sm opacity-50 font-semibold">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -21,10 +21,10 @@ const PricingMain = () => {
               <div className="mt-5">
                 <h2 className="font-bold text-xl">What's Included</h2>
                 <div className="mt-5 grid grid-cols-2 gap-3">
-                  <h3>Feature One</h3>
-                  <h3>Feature Two</h3>
-                  <h3>Feature Three</h3>
-                  <h3>Feature Four</h3>
+                  <h3>Personalized dog care plans</h3>
+                  <h3>Exclusive training videos</h3>
+                  <h3>Expert Vet Q&A Sessions</h3>
+                  <h3>Breed specific insights</h3>
                 </div>
               </div>
             </div>

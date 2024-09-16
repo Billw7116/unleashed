@@ -9,13 +9,13 @@ const AboutMore = () => {
           <div className="col-start-1 col-end-3 h-96 overflow-hidden rounded-xl">
             <img
               className="object-cover h-96 w-full"
-              src="https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2890&q=80"
+              src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1726471533/about-header_sm8u7b.png"
             ></img>
           </div>
           <div className="col-start-3 overflow-hidden rounded-xl h-96 xxs:col-start-1 sm:col-start-3">
             <img
               className="object-cover h-96"
-              src="https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+              src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1726471630/about-img2_c4hxqt.png"
             ></img>
           </div>
         </div>
